@@ -1,6 +1,6 @@
 # double-ended-espresso-tamper
 
-A 3D-primtable dual tamper,with adjustable sizes for both ends!
+A 3D-printable dual tamper,with adjustable sizes for both ends!
 
 ## Overview
 
@@ -14,6 +14,10 @@ own risk! You may be able to wrap this in plastic wrap, or coat it in food-safe
 wax, etc.
 
 ## Details
+
+This is created in - and can be edited in - [OpenSCAD](https://openscad.org/).
+It also comes with [an STL file](double-ended-tamper-53mm-58mm-x30mm.stl) for a
+**53mm** and **58mm** filter baskets tamper, which is also the default size.
 
 ### Thingiverse Customizer, etc
 
