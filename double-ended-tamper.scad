@@ -34,7 +34,9 @@ shaft_length_mm=30.0; // 0.1
 /*  **************************
     End Settings, Begin Script
     ************************** */
+
 // Number of segments / fineness of the circles/cylinders
+
 $fn=200;
 
 // Select the shaft diameter - the same as the smaller tamper diameter
