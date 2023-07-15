@@ -1,6 +1,6 @@
-# double-ended-espresso-tamper
+# Double-ended Espresso Tamper
 
-A 3D-printable dual tamper,with adjustable sizes for both ends!
+A 3D-printable dual tamper, with adjustable sizes for both ends!
 
 ## Overview
 
@@ -35,5 +35,5 @@ The handle diameter is automatically based on the smaller of the two tampers.
 
 ## Links
 
-- [Github Repository](https://github.com/GeoMaciolek/double-ended-espresso-tamper)
 - [Thingiverse Object](https://www.thingiverse.com/thing:6124438)
+- [Github Repository](https://github.com/GeoMaciolek/double-ended-espresso-tamper)
