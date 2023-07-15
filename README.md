@@ -33,3 +33,7 @@ The handle diameter is automatically based on the smaller of the two tampers.
 
 ![Alt text](images/tamper_openscad_screenshot1.png)
 
+## Links
+
+- [Github Repository](https://github.com/GeoMaciolek/double-ended-espresso-tamper)
+- [Thingiverse Object](https://www.thingiverse.com/thing:6124438)
